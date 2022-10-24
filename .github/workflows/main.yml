@@ -10,7 +10,7 @@ jobs:
         
       - name: Hello world action step
         id: hello
-        uses: mjheitland/hello-world-javascript-action@v1.1
+        uses: mjheitland/hello-world-javascript-action@v1.4
         with:
           who-to-greet: 'Michael the Octocat'
       # Use the output from the `hello` step
